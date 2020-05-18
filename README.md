@@ -9,7 +9,7 @@ available, and there's not a brick-like board out there that easily fills the ga
 The design changes are really that I chose to use axial resistors (to make assembly and repair easier), and I changed the
 input connector to a 5mm pitch version that allows wire sizes up to 12AWG. 
 
-### Build of Materials
+### Bill of Materials
 
 - 1x [CUI Devices TB001-500-02BE](https://www.mouser.com/ProductDetail/CUI-Devices/TB001-500-02BE?qs=vLWxofP3U2zBBnHgU5u3DA%3D%3D)
 - 1x [Molex 22-23-2021](https://www.mouser.com/ProductDetail/molex/22-23-2021/?qs=ILqg114nvd4YKlRlbo3yMg%3D%3D&countrycode=US&currencycode=USD)

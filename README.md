@@ -9,6 +9,11 @@ available, and there's not a brick-like board out there that easily fills the ga
 The design changes are really that I chose to use axial resistors (to make assembly and repair easier), and I changed the
 input connector to a 5mm pitch version that allows wire sizes up to 12AWG. 
 
+### Pictures!
+
+- [Front of board](images/VoltageDividerv1Front.png)
+- [Back of board](images/VoltaqeDividerv1Back.png)
+
 ### Bill of Materials
 
 - 1x [CUI Devices TB001-500-02BE](https://www.mouser.com/ProductDetail/CUI-Devices/TB001-500-02BE?qs=vLWxofP3U2zBBnHgU5u3DA%3D%3D)

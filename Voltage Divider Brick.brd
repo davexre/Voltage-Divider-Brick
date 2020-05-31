@@ -52,7 +52,7 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
@@ -172,10 +172,12 @@
 <hole x="12.7" y="12.7" drill="3.429"/>
 <text x="2.54" y="10.16" size="1.4224" layer="22" rot="MR180">Voltage Brick</text>
 <text x="15.494" y="7.493" size="0.8128" layer="22" rot="MR0">by Dave Re</text>
-<text x="12.827" y="1.778" size="0.4064" layer="22" rot="MR0">dave@drperformanceshooting.com</text>
-<text x="10.541" y="22.987" size="0.6096" layer="22" rot="MR0">version 1.0</text>
-<text x="14.859" y="10.033" size="0.8128" layer="21" rot="SR270">Voltage</text>
-<text x="13.589" y="7.747" size="0.8128" layer="21" rot="SR270">Brick</text>
+<text x="14.097" y="1.905" size="1.016" layer="22" rot="MR0">dave@refamily.us</text>
+<text x="11.176" y="22.352" size="0.8128" layer="22" rot="MR0">version 1.1</text>
+<text x="14.478" y="10.414" size="1.27" layer="21" rot="SR270">Voltage</text>
+<text x="13.208" y="7.747" size="1.016" layer="21" rot="SR270">Brick</text>
+<text x="1.016" y="4.318" size="1.778" layer="21">+</text>
+<text x="11.049" y="21.971" size="1.778" layer="21">+</text>
 </plain>
 <libraries>
 <library name="SparkFun-Connectors">
